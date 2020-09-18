@@ -13,7 +13,7 @@ Last edit was 9/18/2020 by Brian O'leary.  Contact oleary.brian1@gmail.com with 
 
 ## **Screenshot:**
 
-![Screenshot of working app](Capture1.JPG)
+![Screenshot of working app](Capture.JPG)
 ![Screenshot of database for the app](Capture2.JPG)
 
 
@@ -27,4 +27,4 @@ Last edit was 9/18/2020 by Brian O'leary.  Contact oleary.brian1@gmail.com with 
   No.
 
 ## **Instructions:**
-Download the the repositoty to your local machine. create the database using the Schema file.  Open the file in your terminal.  Type "npm start" and follow the instructions.  
+Open the "live menu" link and add and remove menu items as you see fit.  They wil be updated in the database.  
